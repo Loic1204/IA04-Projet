@@ -12,4 +12,5 @@ public class Constants {
 	public static int DISTANCE_DEPLACEMENT = 3 ; // l'agent peut se déplacer de X cases à chaque tour.
 	public static int DISTANCE_PERCEPTION = 6 ; // l’agent peut percevoir le contenu des n cases adjacentes
 	public static int ATTACK = 2;
+	public static double armLength = 3.0;
 }

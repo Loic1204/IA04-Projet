@@ -17,7 +17,7 @@ public class AgentPlayer implements Steppable {
 	public boolean hasFlag = false;
 	public int confused = 0;
 	public Double2D ennemy = null;
-	public double armLength = 3.0;
+	public double armLength = Constants.armLength;;
 	public AgentFlag flag = null;
 	public Double2D randomDestination = null;
 	
